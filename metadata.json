@@ -1,5 +1,5 @@
 {
-  "name": "SVDOGeneratorJson",
+  "name": "sVDOGeneratorJson.ai",
   "description": "Sample from Veo models to generate videos with simple JSON prompt",
   "requestFramePermissions": []
 }
